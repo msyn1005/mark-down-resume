@@ -3,15 +3,13 @@
 <br>
 
 ## 모수연 (Mo Su Yeon)
-> - msyahtndus@gmail.com
-> - 010-0000-0000
-> - [Github](https://github.com/msyn1005)
+> - `E-mail` :msyahtndus@gmail.com
+> - `Contact` : 010-0000-0000
+> - `Link` : [Github](https://github.com/msyn1005) (portfolio)
 <br>
 
-### 기술과 예술의 경계를 허물고 인간의 감각을 확장하는 ***인터랙티브 미디어 엔지니어***
-저는 데이터 중심의 AI 기술과 비주얼 테크놀로지를 결합하여 차세대 사용자 경험을 설계합니다.\
-애플, 구글 등 글로벌 빅테크 기업에서의 인턴십을 통해 실시간 렌더링 최적화와 멀티모달 인터랙션 분야의 독보적인 전문성을 쌓았습니다. \
-10개 이상의 전문 자격증과 세계 최고 권위의 공모전 수상을 통해 증명된 역량을 바탕으로, 단순한 인터페이스를 넘어 인간과 시스템이 정서적으로 교감하는 미래 미디어 환경을 구축하고 있습니다.
+### 기술과 예술의 경계를 허물고 인간의 감각을 확장하는 ***인터랙티브 미디어 엔지니어***, 모수연입니다.
+저는 데이터 중심의 AI 기술과 비주얼 테크놀로지를 결합하여 차세대 사용자 경험을 설계하는 엔지니어입니다. 실시간 렌더링 최적화와 멀티모달 인터랙션 기술을 바탕으로 복잡한 데이터를 직관적인 시각 언어로 전환하며, 인간의 감각을 확장하는 작업에 집중하고 있습니다. 단순한 인터페이스 구현을 넘어, 사용자의 의도와 감정을 깊이 있게 이해하고 정서적으로 교감할 수 있는 미래형 인터랙티브 시스템을 구축해 나갑니다. 끊임없이 진화하는 기술을 탐구하여 미지의 영역을 시각화하고, 공학적 정밀함 위에 예술적 영감을 더해 세상에 없던 몰입의 순간을 구현하겠습니다.
 
 <br>
 <br>
@@ -29,6 +27,7 @@
 
 - ### ***MX 소프트웨어 개발 인턴 (갤럭시 AI Lab)  |  삼성전자 MX사업부***  ·  2027.01 ~ 2027.02
     - Galaxy AI 기능(Circle to Search, Live Translate) 온디바이스 UI 인터랙션 컴포넌트 개발
+
     - Galaxy S28 시리즈 출시 전 QA 및 사용성 테스트 참여 — 제스처 반응속도 개선 기여
     - 갤럭시 AI 내부 해커톤 1위 — 시선 추적 기반 알림 제어 인터페이스 프로토타입 개발
 
@@ -100,54 +99,33 @@
 <br>
 
 ## 자격증
-- **정보처리기사** | 한국산업인력공단 · 2027
-
-- **빅데이터분석기사** | 한국데이터산업진흥원 · 2027
-- **ADsP** (데이터분석준전문가) | 한국데이터산업진흥원 · 2026
-- **구글 Professional Machine Learning Engineer** | Google Cloud · 2028
-- **구글 Professional Data Engineer** | Google Cloud · 2028
-- **AWS Certified Solutions Architect – Associate** | Amazon Web Services · 2028
-- **Unity Certified Associate: Game Developer** | Unity Technologies · 2028
-- **Adobe Certified Professional – After Effects** | Adobe · - 2028
-- **OPIc English IM2** (영어회화) | ACTFL · 2029
-- **JLPT N2** (일본어능력시험) | 일본국제교류기금 · 2027
 - **컴퓨터활용능력 1급** | 대한상공회의소 · 2026
+
+- **ADsP** (데이터분석준전문가) | 한국데이터산업진흥원 · 2026
+- **정보처리기사** | 한국산업인력공단 · 2027
+- **빅데이터분석기사** | 한국데이터산업진흥원 · 2027
+- **JLPT N2** (일본어능력시험) | 일본국제교류기금 · 2027
+- **구글 Professional Data Engineer** | Google Cloud · 2028
+- **Adobe Certified Professional – After Effects** | Adobe · - 2028
+- **구글 Professional Machine Learning Engineer** | Google Cloud · 2028
+- **Unity Certified Associate: Game Developer** | Unity Technologies · 2028
+- **AWS Certified Solutions Architect – Associate** | Amazon Web Services · 2028
+- **OPIc English IM2** (영어회화) | ACTFL · 2029
 
 <br>
 <br>
 
 ## 수상
-- **ACM CHI 2027 Student Research Competition** ***금상*** — ACM (국제 HCI 학회) (2027)
-
 - **한국공학한림원** ***미래인재상*** — 한국공학한림원 (2027)
+
 - **과학기술정보통신부 SW 공모전** ***대상 (장관상)*** — 과기정통부 (2027)
-- **삼성 드림챌린지 창의아이디어 부문** ***최우수상*** — 삼성전자 (2028)
+- **ACM CHI 2027 Student Research Competition** ***금상*** — ACM (국제 HCI 학회) (2027)
 - **NAVER AI 해커톤** ***우승*** — NAVER (2028)
 - **Adobe Creative Jam Seoul** ***1위*** — Adobe (2028)
+- **삼성 드림챌린지 창의아이디어 부문** ***최우수상*** — 삼성전자 (2028)
 
 <br>
 <br>
 
 ## 추천인
-
-```
-제목 
-이름
-이메일 주소
-간략한 자기소개
-교육 (사실)
-인턴 경력
-프로젝트 경험
-자격증
-수상
-추천인 박규동
-
-headings
-lists
-links
-
-제목 / 소제목 구분
-항목 정리를 위한 목록
-
-관련 링크 삽입
-```
+`광운대학교 정보융합학부 박 규동 교수님`
