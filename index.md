@@ -54,41 +54,41 @@
 
 ## 프로젝트
 
-- ### ***EmotionCanvas*** — 감정 기반 생성형 인터랙티브 아트
+- ### ***EmotionCanvas*** **|** 감정 기반 생성형 인터랙티브 아트
     - 사용자의 실시간 감정 상태(표정+생체신호)를 분석해 동적으로 변화하는 몰입형 아트 설치물 제작
 
     - MediaPipe + OpenCV 기반 감정 인식 모델, Stable Diffusion + ControlNet으로 아트 생성
     - 2027 국립현대미술 공식 초청 전시 — 3일간 방문객 12,000명 체험
     - Tech Stack: Python, PyTorch, TouchDesigner, WebSocket, Raspberry Pi 4
 
-- ### ***HoloBoard*** — 공간 컴퓨팅 기반 협업 화이트보드
+- ### ***HoloBoard*** **|** 공간 컴퓨팅 기반 협업 화이트보드
     - Apple Vision Pro 및 Meta Quest 3 듀얼 지원 3D 협업 보드 앱 개발
 
     - 손 제스처 + 시선 추적으로 조작하는 공간 UI, 최대 10인 실시간 협업 지원
     - App Lab 출시 3개월 만에 다운로드 8,000건, 유지율 68%
     - Tech Stack: Swift (visionOS), Unity MRTK3, WebRTC, Firebase
 
-- ### ***SoundMorph*** — 오디오-비주얼 인터랙티브 설치
+- ### ***SoundMorph*** **|** 오디오-비주얼 인터랙티브 설치
     - 주변 소리를 실시간으로 분석해 입체적 파티클 시각화로 변환하는 몰입형 인스톨레이션
 
     - FFT 분석 + LSTM 기반 패턴 예측, 프로젝션 매핑 + 키넥트 제스처 인식
     - Tech Stack: openFrameworks, C++, Max/MSP, Kinect SDK
 
-- ### ***NeuralPuppet*** — AI 기반 실시간 모션캡처 아바타 시스템
+- ### ***NeuralPuppet*** **|** AI 기반 실시간 모션캡처 아바타 시스템
     - 단일 웹캠으로 전신 포즈 추정 후 3D 아바타에 실시간 매핑하는 저비용 버추얼 프로덕션 툴
 
     - MediaPipe Holistic + Kalman Filter 기반 지터 제거로 방송 품질 수준의 부드러운 모션 구현
     - 인디 VTuber 크리에이터 300명+ 실사용, 오픈소스 GitHub Star 2.1k
     - Tech Stack: Python, Three.js, WebGL, MediaPipe, FastAPI
 
-- ### ***AdaptUI*** — 장애인 접근성 AI 인터페이스 프레임워크
+- ### ***AdaptUI*** **|** 장애인 접근성 AI 인터페이스 프레임워크
     - 시각/청각/운동 장애 유형을 자동 감지해 UI를 동적으로 재구성하는 접근성 미들웨어
 
     - 시선 추적 마우스 대체 기능 내장, 과학기술정보통신부 SW 공모전 대상 수상
     - 현재 3개 복지관 파일럿 도입 중
     - Tech Stack: React, TypeScript, TensorFlow.js, Web Speech API
 
-- ### ***CrowdMind*** — 실시간 군중 감정 집단지성 시각화
+- ### ***CrowdMind*** **|** 실시간 군중 감정 집단지성 시각화
     - 공연장 관객의 집단 감정을 실시간 집계해 무대 조명·영상에 반영하는 관객 참여 시스템
 
     - 관객 스마트폰을 센서로 활용 (가속도계 + 마이크), 서버리스 엣지 컴퓨팅으로 지연 <50ms
