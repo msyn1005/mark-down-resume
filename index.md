@@ -88,17 +88,17 @@
 <br>
 
 ## 자격증
-- **컴퓨터활용능력 1급** | 대한상공회의소 · 2026
-- **ADsP** (데이터분석준전문가) | 한국데이터산업진흥원 · 2026
-- **정보처리기사** | 한국산업인력공단 · 2027
-- **빅데이터분석기사** | 한국데이터산업진흥원 · 2027
-- **JLPT N2** (일본어능력시험) | 일본국제교류기금 · 2027
-- **구글 Professional Data Engineer** | Google Cloud · 2028
-- **Adobe Certified Professional – After Effects** | Adobe · - 2028
-- **구글 Professional Machine Learning Engineer** | Google Cloud · 2028
-- **Unity Certified Associate: Game Developer** | Unity Technologies · 2028
-- **AWS Certified Solutions Architect – Associate** | Amazon Web Services · 2028
-- **OPIc English IM2** (영어회화) | ACTFL · 2029
+- **컴퓨터활용능력 1급** — 대한상공회의소 · 2026
+- **ADsP** (데이터분석준전문가) — 한국데이터산업진흥원 · 2026
+- **정보처리기사** — 한국산업인력공단 · 2027
+- **빅데이터분석기사** — 한국데이터산업진흥원 · 2027
+- **JLPT N2** (일본어능력시험) — 일본국제교류기금 · 2027
+- **구글 Professional Data Engineer** — Google Cloud · 2028
+- **Adobe Certified Professional – After Effects** — Adobe · - 2028
+- **구글 Professional Machine Learning Engineer** — Google Cloud · 2028
+- **Unity Certified Associate: Game Developer** — Unity Technologies · 2028
+- **AWS Certified Solutions Architect – Associate** — Amazon Web Services · 2028
+- **OPIc English IM2** (영어회화) — ACTFL · 2029
 
 <br>
 <br>
